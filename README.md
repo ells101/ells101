@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Makers Academy!**
 
-- 📫 How to reach me **ells101@hotmail.co.uk**
+- 📫 Reach me at **ells101@hotmail.co.uk**
 
 - ⚡ Fun fact **I can cut my own vinyl records!**
 
