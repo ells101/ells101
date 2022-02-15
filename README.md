@@ -1,9 +1,15 @@
+
 <h1 align="center">Hi 👋, I'm Elliott</h1>
-<h3 align="center">Let me fill you in on my coding journey :D</h3>
 
-- 🌱 I’m currently learning **Ruby and a little bit of Lua**
+<h3 align="center"> Curious about my coding journey? </h3>
 
-- 💬 Ask me about **Makers Academy!**
+<h2 align="left">Summary</h2>
+
+From a young age I’ve loved working with computers. I studied predicate logic as part of my Philosophy degree, opening my eyes to problem solving with logic. After university, pursuing a music career was my overbearing obsession until I scratched my perennial programming itch with a 2D game development course. Soon after, I reached out to a programmer friend and for the next 3 months he trained me on Python and Ruby, realising that I learnt best through coaching. I enrolled with [Makers Academy](https://www.makers.tech/) and now as a Makers graduate I’m looking to develop my skills even further as a **Full Stack Developer**. With experience in events management, photo shoot production and a decade of working in the music industry, I can't wait to bring my enthusiasm to my next programming job.
+
+- 🌱 I’m currently learning **Ruby and Ruby on Rails**
+
+- 💬 Ask me about **Makers Academy and TDD!**
 
 - 📫 Reach me at **ells101@hotmail.co.uk**
 
