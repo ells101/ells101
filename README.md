@@ -3,7 +3,7 @@
 
 <h3 align="center"> Curious about my coding journey? </h3>
 
- 💬 Ask me about: **Makers Academy and TDD!** / 📫 Reach me at **ells101@hotmail.co.uk** / ⚡ Fun fact: **I can cut my own vinyl records!**
+<div align:"center"> 💬 Ask me about: **Makers Academy and TDD!** / 📫 Reach me at **ells101@hotmail.co.uk** / ⚡ Fun fact: **I can cut my own vinyl records!**</div>
 
 ## Summary 
 
