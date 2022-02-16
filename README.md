@@ -4,8 +4,6 @@
 <h3 align="center"> Curious about my coding journey? </h3>
 
  💬 Ask me about: **Makers Academy and TDD!** / 📫 Reach me at **ells101@hotmail.co.uk** / ⚡ Fun fact: **I can cut my own vinyl records!**
- 
-<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=ells101&show_icons=true&locale=en" alt="ells101" /></p>
 
 ## Summary 
 
@@ -38,7 +36,7 @@ From a young age I’ve loved working with computers. I studied predicate logic 
 ### Courses & Qualifications
 
 > **JS, SQL, HTML, CSS Introduction - Mimo IOS/Android App** (July ‘21 -  January 2022)
-
+>
 > **Introduction To 2D Game Development - HarvardX CS50G** (August ’21- March 2022)
 
 ## Work Experience / Skills
