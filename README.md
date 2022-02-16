@@ -11,11 +11,33 @@ From a young age I’ve loved working with computers. I studied predicate logic 
 
 <h2 align="left">Projects</h2>
 
-|Name                                  |Description|Tech/Testing|
-|----------------------------------------------|-----------|------------|
-|[HangGit](https://hang-git-cms718.herokuapp.com)|Final project at Makers. Hangman game that “gamifies” learning Git commands.|MongoDB, Express, React and Node. Heroku, CircleCI, and Mongoose. Jest, React Testing|
-|Acebook|Facebook clone developed as a group project| Ruby on Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS. Rspec, Capybara|
-|Hot Potato BnB|Group work on an “Airbnb” clone.|Ruby, HTML, CSS. Rspec, Capybara|
+|Name|Description|Tech & Testing|
+|:----:|-----------|------------|
+|[HangGit](https://hang-git-cms718.herokuapp.com)|Final project at Makers. Learn Git commands by playing hang man on your browser.|MongoDB, Express, React and Node. Heroku, CircleCI, and Mongoose. Jest, React Testing.|
+|[Acebook](https://acebook-runtime-terrors.herokuapp.com)|Facebook clone developed as a group project| Ruby on Rails, Postgres /w ActiveRecord, Bootstrap, Heroku HTML, CSS. Rspec, Capybara.|
+|[Hot Potato BnB](https://github.com/ells101/makersbnb)|Group project to create an “Airbnb” clone.|Ruby, HTML, CSS. Rspec, Capybara.|
+
+<h2 align="left">Education</h2>
+
+**Full Stack Software Development Bootcamp - Makers Academy (03/2021 - 07/2021)**
+
+ - Utilised OOP and TDD. Programming with MVC Modelling and Agile practices every day. 
+ - Full stack web development developing with Ruby, Ruby on Rails, Javascript and React.
+ - Pair programming every afternoon. Independent learning on mornings/weekends.
+ - Practiced Agile by having multiple work groups in which to sprint, stand-up and retro.
+ - Final Project was Hang Git. A web-app game to practice git commands by playing hang-man.
+ - EQ (emotional quotient) training with "Joy Officer” to supplement teamwork and Scrum skills.
+
+**Philosophy BA Hons 2:1 University of Nottingham (2013 - 2016)**
+ - Enjoyed problem solving aspect of 1st and 2nd Order logic. That same logic exists in coding.
+ - Practiced attention to detail and concision with strict word-count essays on complex concepts.
+ - Taught the concept of parsimony. Breaking down abstract arguments into salient points is how I code.
+
+<h3 align="left">Courses & Qualifications</h3>
+
+**JS, SQL, HTML, CSS Introduction - Mimo IOS/Android App** (July ‘21 -  January 2022)
+
+**Introduction To 2D Game Development - HarvardX CS50G** (August ’21- March 2022)
 
 
 
