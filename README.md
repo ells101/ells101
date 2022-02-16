@@ -8,7 +8,7 @@
 
 <div align="center"> <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=ells101&badge&colormode=dark_mode"/> </div>
 
-## Summary 
+## A little about me:
 
 From a young age I’ve loved working with computers. I studied predicate logic as part of my Philosophy degree, opening my eyes to problem solving with logic. Leaving university, pursuing a music career became my overbearing obsession until I scratched my perennial programming itch with a 2D game development course.  I then reached out to a programmer friend and for the next 3 months he trained me on Python and Ruby, realising that I learnt best through coaching. I enrolled with [Makers Academy](https://www.makers.tech "London’s leading software development boot camp") and now as a Makers graduate I’m looking to develop my skills even further as a **Full Stack Developer**. With experience in events management, photo-shoot production and a decade of working in music, I can't wait to bring my enthusiasm to my next job.
 
