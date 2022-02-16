@@ -3,17 +3,21 @@
 
 <h3 align="center"> Curious about my coding journey? </h3>
 
+ 💬 Ask me about: **Makers Academy and TDD!** --- 📫 Reach me at **ells101@hotmail.co.uk** ---  ⚡ Fun fact: **I can cut my own vinyl records!**
+
 <h2 align="left">Summary</h2>
 
-From a young age I’ve loved working with computers. I studied predicate logic as part of my Philosophy degree, opening my eyes to problem solving with logic. After university, pursuing a music career was my overbearing obsession until I scratched my perennial programming itch with a 2D game development course. Soon after, I reached out to a programmer friend and for the next 3 months he trained me on Python and Ruby, realising that I learnt best through coaching. I enrolled with [Makers Academy](https://www.makers.tech/) and now as a Makers graduate I’m looking to develop my skills even further as a **Full Stack Developer**. With experience in events management, photo shoot production and a decade of working in the music industry, I can't wait to bring my enthusiasm to my next programming job.
+From a young age I’ve loved working with computers. I studied predicate logic as part of my Philosophy degree, opening my eyes to problem solving with logic. Leaving university, pursuing a music career became my overbearing obsession until I scratched my perennial programming itch with a 2D game development course.  I then reached out to a programmer friend and for the next 3 months he trained me on Python and Ruby, realising that I learnt best through coaching. I enrolled with [Makers Academy](https://www.makers.tech "London’s leading software development boot camp") and now as a Makers graduate I’m looking to develop my skills even further as a **Full Stack Developer**. With experience in events management, photo shoot production and a decade of working in the music industry, I can't wait to bring my enthusiasm to my next programming job.
 
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
+<h2 align="left">Projects</h2>
 
-- 💬 Ask me about **Makers Academy and TDD!**
+|Name                                  |Description|Tech/Testing|
+|----------------------------------------------|-----------|------------|
+|[HangGit](https://hang-git-cms718.herokuapp.com)|Final project at Makers. Hangman game that “gamifies” learning Git commands.|MongoDB, Express, React and Node. Heroku, CircleCI, and Mongoose. Jest, React Testing|
+|Acebook|Facebook clone developed as a group project| Ruby on Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS. Rspec, Capybara|
+|Hot Potato BnB|Group work on an “Airbnb” clone.|Ruby, HTML, CSS. Rspec, Capybara|
 
-- 📫 Reach me at **ells101@hotmail.co.uk**
 
-- ⚡ Fun fact **I can cut my own vinyl records!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
