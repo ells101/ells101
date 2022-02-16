@@ -5,9 +5,7 @@
 
  💬 Ask me about: **Makers Academy and TDD!** --- 📫 Reach me at **ells101@hotmail.co.uk** --- ⚡ Fun fact: **I can cut my own vinyl records!**
  
-<p>&nbsp;<img align="right"src="https://github-readme-stats.vercel.app/api?username=ells101&show_icons=true&locale=en" alt="ells101" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ells101&show_icons=true&locale=en&layout=compact" alt="ells101"/></p>
+<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=ells101&show_icons=true&locale=en" alt="ells101" /></p>
 
 ## Summary 
 
