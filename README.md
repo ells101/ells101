@@ -24,7 +24,7 @@ From a young age I’ve loved working with computers. I studied predicate logic 
 
 ## Education
 
-**Full Stack Software Development Bootcamp - Makers Academy (03/2021 - 07/2021)**
+**Full Stack Software Development Bootcamp** - Makers Academy (03/2021 - 07/2021)
 
  - Utilised OOP and TDD. Programming with MVC Modelling and Agile practices every day. 
  - Full stack web development developing with Ruby, Ruby on Rails, Javascript and React.
@@ -33,7 +33,7 @@ From a young age I’ve loved working with computers. I studied predicate logic 
  - Final Project was Hang Git. A web-app game to practice git commands by playing hang-man.
  - EQ (emotional quotient) training with "Joy Officer” to supplement teamwork and Scrum skills.
 
-**Philosophy BA Hons 2:1 University of Nottingham (2013 - 2016)**
+**Philosophy BA Hons 2:1** - University of Nottingham (2013 - 2016)
  - Enjoyed problem solving aspect of 1st and 2nd Order logic. That same logic exists in coding.
  - Practiced attention to detail and concision with strict word-count essays on complex concepts.
  - Taught the concept of parsimony. Breaking down abstract arguments into salient points is how I code.
