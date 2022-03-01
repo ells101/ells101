@@ -67,8 +67,3 @@ Sitting on my Dad's lap as he played  Diablo 2, I was transfixed less by monster
 **Customer Support** - Cazoo - Online Car Retailer (December 2019 - April 2020)
 - Two weeks “The Gift” EQ training. I can handle a variety of issues whilst managing client expectations.
 - Practice easing customer anxieties in which to turn a negative experience into a positive one.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://uk.linkedin.com/in/elliott-horton-stephens-55b0b6176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://uk.linkedin.com/in/elliott-horton-stephens-55b0b6176" height="30" width="40" /></a>
-</p>
