@@ -18,8 +18,8 @@ Sitting on my Dad's lap as he played  Diablo 2, I was transfixed less by the mon
 
 |Name|Description|Tech & Testing|
 |:----:|-----------|------------|
-|[HangGit](https://hang-git-cms718.herokuapp.com)|Final project at Makers. Learn Git commands by playing hang man on your browser.|MongoDB, Express, React and Node. Heroku, CircleCI, and Mongoose. Jest, React Testing.|
-|[Acebook](https://acebook-runtime-terrors.herokuapp.com)|Facebook clone developed as a group project| Ruby on Rails, Postgres /w ActiveRecord, Bootstrap, Heroku HTML, CSS. Rspec, Capybara.|
+|[HangGit]|Final project at Makers. Learn Git commands by playing hang man on your browser.|MongoDB, Express, React and Node. Heroku, CircleCI, and Mongoose. Jest, React Testing.|
+|[Acebook]|Facebook clone developed as a group project| Ruby on Rails, Postgres /w ActiveRecord, Bootstrap, Heroku HTML, CSS. Rspec, Capybara.|
 |[Hot Potato BnB](https://github.com/ells101/makersbnb)|Group project to create an “Airbnb” clone.|Ruby, HTML, CSS. Rspec, Capybara.|
 
 ## Education
