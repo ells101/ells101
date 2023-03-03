@@ -40,9 +40,8 @@ Sitting on my Dad's lap as he played  Diablo 2, I was transfixed less by the mon
 
 ### Courses & Qualifications
 
-> **JS, SQL, HTML, CSS Introduction - Mimo IOS/Android App** (July ‘21 -  January 2022)
->
-> **Introduction To 2D Game Development - HarvardX CS50G** (August ’21- March 2022)
+- JS, SQL, HTML, CSS Introduction - Mimo IOS/Android App (July ‘21 -  January 2022)
+- Introduction To 2D Game Development - HarvardX CS50G (August ’21- March 2022)
 
 ## Work Experience / Skills
 
