@@ -11,60 +11,71 @@
 
 ## A little about me:
 
-Sitting on my Dad's lap as he played  Diablo 2, I was transfixed less by the monsters, but how the PC was able to conjure scenes seemingly from thin-air. Experimenting with games as a child, I knew I wanted to find out more! I completed a computer science A-Level which led me to study philosophy at university. There I was taught predicate logic as part of my degree, opening my eyes to computational logic. Leaving university, pursuing a music career became my obsession until I scratched my programming itch with an online 2D game dev course. I reached out to a programmer friend and for the next 3 months he trained me on Python and Ruby. Realising that I learnt best through coaching, I enrolled with [Makers Academy](https://makers.tech/) to become a **Full Stack Developer**. I've now finished a paid 2 months **Java SDET** at [Sparta Global](https://spartaglobal.com/) to upskill into **Java** and **Automated Testing**. It’s been an exciting career change, so with experience in events management, photo-shoot production and a decade of working in music, I can’t wait to bring my enthusiasm to my next job.
-
+Sitting on my Dad's lap as he played Diablo 2, I was transfixed less by the monsters, but how the PC was able to conjure scenes seemingly from thin-air. Experimenting with games as a child, I knew I wanted to find out more! I completed a computer science A-Level which led me to study philosophy at university. There I was taught predicate logic as part of my degree, opening my eyes to computational logic. Leaving university, pursuing a music career became my obsession until I scratched my programming itch with an online 2D game dev course. I reached out to a programmer friend and for the next 3 months he trained me on Python and Ruby. Realising that I learnt best through coaching, I enrolled with [Makers Academy](https://makers.tech/) to become a **Full Stack Web Developer**. I've now finished a paid 2 months training at [Sparta Global](https://spartaglobal.com/) learning **Java** and **Automated Testing**. So with experience in events management, photo-shoot production and a decade of working in music, I can’t wait to bring my enthusiasm to my next job.
 
 ## Projects
 
 |Name|Description|Tech & Testing|
 |:----:|-----------|------------|
-|[HangGit](https://github.com/cms718/hang-git)|Final project at Makers. Learn Git commands by playing hang man on your browser.|MongoDB, Express, React and Node. Heroku, CircleCI, and Mongoose. Jest, React Testing.|
-|[Acebook](https://github.com/GunelMC/acebook-runtime-terrors)|Facebook clone developed as a group project| Ruby on Rails, Postgres /w ActiveRecord, Bootstrap, Heroku HTML, CSS. Rspec, Capybara.|
-|[Hot Potato BnB](https://github.com/ells101/makersbnb)|Group project to create an “Airbnb” clone.|Ruby, HTML, CSS. Rspec, Capybara.|
+|[Testing Framework](https://github.com/ells101/Web-And-API-Testing-Framework)|Final project at Sparta Global. Auto testing API and Web. |Java, Junit, Maven, Gherkin, Jackson, Postman, Selenium|
+|[Data Migration](https://https://github.com/ells101/CSV-Data-Migration-Sparta)|Migrate and sanitize CSV to an SQL DB| Java, Junit, Maven, MySQL |
+|[Binary Search Tree](https://github.com/ells101/BinarySearchTreeProject)|BST tree to perform CRUD operations.|Java, Junit, Maven|
 
 ## Education
 
-**Full Stack Software Development Bootcamp** - Makers Academy (03/2021 - 07/2021)
+**Java Test Automation Engineer** = Sparta Global (February 2023 = May 2023)
 
- - Utilised OOP and TDD. Programming with MVC Modelling and Agile practices every day. 
- - Full stack web development developing with Ruby, Ruby on Rails, Javascript and React.
- - Pair programming every afternoon. Independent learning on mornings/weekends.
- - Practiced Agile by having multiple work groups in which to sprint, stand-up and retro.
- - Final Project was Hang Git. A web-app game to practice git commands by playing hang-man.
- - EQ (emotional quotient) training with "Joy Officer” to supplement teamwork and Scrum skills.
+- Understanding the role of a software tester and how I fit into Agile development teams.
+- Beginner to advanced Java. From OOP/SOLID to functional programming paradigms and design patterns.
+- Applying testing tools such as: Junit Jupiter, Mockito, Selenium, REST Assured.
+- Combining Agile/Scrum with Jira in multiple group projects, developing with TDD and BDD.
+
+**Full Stack Software Development Bootcamp** - Makers Academy (March 2021 - June 2021)
+
+- Utilised OOP and TDD. Programming with MVC Architecture and Agile practices every day.
+- Full stack web development developing with Ruby, Ruby on Rails, Javascript and React.
+- Pair programming every afternoon. Independent learning on mornings/weekends.
+- Final Project was Hang Git. A web-app game to practice git commands by playing hang-man.
+- EQ (emotional quotient) training with Chief "Joy Officer” to supplement teamwork and Scrum skills.
 
 **Philosophy BA Hons 2:1** - University of Nottingham (2013 - 2016)
- - Enjoyed problem solving aspect of 1st and 2nd Order logic. That same logic exists in coding.
- - Practiced attention to detail and concision with strict word-count essays on complex concepts.
- - Taught the concept of parsimony. Breaking down abstract arguments into salient points is how I code.
 
-### Courses & Qualifications
+- Enjoyed problem solving aspect of 1st and 2nd Order logic. That same logic exists in coding.
+- Practised attention to detail and concision with strict word-count essays on complex concepts.
+- Taught the concept of parsimony. Breaking down abstract arguments into salient points is how I code.
 
-- JS, SQL, HTML, CSS Introduction - Mimo IOS/Android App (July ‘21 -  January 2022)
-- Introduction To 2D Game Development - HarvardX CS50G (August ’21- March 2022)
+### Qualifications
+
+- Certified Tester Foundation Level (CTFL) - ISTQB (February 2023)
+- JS, SQL, HTML, CSS Introduction - Mimo IOS/Android App (July 2021 - January 2022)
 
 ## Work Experience / Skills
 
-**Promoter Producer**  - FOLD, VENUE MOT and Independent Events (2013 - 2020)
-- Created and updated budgeting spreadsheets for events to influence marketing strategies.
-- Negotiated and built relationships with clients —> more tickets sold and lower DJ/venue hire costs.
-- Put together multi-room events. “Hands-on” approach, managing: food, performers, bands and DJ’s.
+**Junior Agent** - Horton-Stephens - Photographers Agency (August 2018 - February 2023)
 
-**Studio Technician** - Blue Studios - Recording/Rehearsal Studios (August 2016 - July 2018)
-- Assembled a system for audio equipment so fellow technicians could improve workflow.
-- Suggested and implemented a CRM system to book customers, saving time and money.
-- Hospitality afforded practicing a good rapport with regulars and diffusing problem customers.
-
-**Junior Agent** - Horton-Stephens - Photographers Agency (August 2018 - August 2019)
 - Proposed and assisted in developing a CMS to update digital portfolios quickly and easily.
 - Manning phones with enthusiasm, improving relationships with clients, attracting more business.
 - Shoot production, tackling complex briefs from clients, producing campaigns for world's major brands.
 
+**Promoter / Producer**  - FOLD, VENUE MOT and Independent Events (2013 - 2020)
+
+- Created and updated budgeting spreadsheets for events to influence marketing strategies.
+- Negotiated and built relationships with clients —> more tickets sold and lower DJ/venue hire costs.
+- Put together multi-room events. “Hands-on” approach, managing: food, performers, bands and DJ’s.
+
+**Customer Support Specialist** - Cazoo - Online Car Retailer (December 2019 - April 2020)
+
+- Two weeks “The Gift” EQ training. I can handle a variety of issues whilst managing client expectations.
+- Practice easing customer anxieties in which to turn a negative experience into a positive one.
+
+**Studio Technician** - Blue Studios - Recording/Rehearsal Studios (August 2016 - July 2018)
+
+- Assembled a system for audio equipment so fellow technicians could improve workflow.
+- Suggested and implemented a CRM system to book customers, saving time and money.
+- Establishing a good rapport with regulars and diffusing any problem customers.
+
 **Intern** - XL Recordings - UK’s Biggest Independent Record Label (August 2019 - November 2019)
+
 - Created a CV that looks like a vinyl record that led to an internship at this dream record label.
 - Fixed and upgraded obsolete hardware. Refurbished old Apple PC’s with new devices like SSD’s.
 - Took initiative in finding a role by finding locations for and producing “listening parties” for the press.
-
-**Customer Support Specialist** - Cazoo - Online Car Retailer (December 2019 - April 2020)
-- Two weeks “The Gift” EQ training. I can handle a variety of issues whilst managing client expectations.
-- Practice easing customer anxieties in which to turn a negative experience into a positive one.
