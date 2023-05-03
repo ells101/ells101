@@ -15,10 +15,10 @@ Sitting on my Dad's lap as he played Diablo 2, I was transfixed less by the mons
 
 ## Projects
 
-|Name|Description|Tech & Testing|
+|Github Repo|Description|Tech & Testing|
 |:----:|-----------|------------|
 |[Testing Framework](https://github.com/ells101/Web-And-API-Testing-Framework)|Final project at Sparta. Auto testing API and Web. |Java, Junit, Maven, Gherkin, Jackson, Selenium|
-|[Data Migration](https://https://github.com/ells101/CSV-Data-Migration-Sparta)|Migrate and sanitize CSV to an SQL DB| Java, Junit, Maven, MySQL |
+|[Data Migration](https://https://github.com/ells101/CSV-Data-Migration-Sparta)|Migrate and sanitize .csv to an SQL DB.| Java, Junit, Maven, MySQL |
 |[Binary Search Tree](https://github.com/ells101/BinarySearchTreeProject)|BST tree to perform CRUD operations.|Java, Junit, Maven|
 
 ## Education
