@@ -25,7 +25,7 @@ Sitting on my Dad's lap as he played Diablo 2, I was transfixed less by the mons
 
 **Java Test Automation Engineer** - Sparta Global (February 2023 - May 2023)
 
-- Earned my certificate after 10 weeks of gruelling training. Passed 10 exams to be one of 14 who succeeds from a group of 32.
+- Earned my certificate after 10 weeks of gruelling training. Passed 10 exams to be one of 12 who succeeds from a group of 32.
 - Attained my foundation level ISTQB certificate to prove I understand the role of a professional software tester.
 - Beginner to advanced Java. From OOP/SOLID to functional programming paradigms and design patterns.
 - Applying testing tools such as: Junit Jupiter, Mockito, Selenium, REST Assured.
