@@ -69,13 +69,13 @@ Sitting on my Dad's lap as he played Diablo 2, I was transfixed less by the mons
 
 - Two weeks “The Gift” EQ training. I can handle a variety of issues whilst managing client expectations.
 - Practice easing customer anxieties in which to turn a negative experience into a positive one.
-
+<!---
 **Studio Technician** - Blue Studios - Recording/Rehearsal Studios (August 2016 - July 2018)
 
 - Assembled a system for audio equipment so fellow technicians could improve workflow.
 - Suggested and implemented a CRM system to book customers, saving time and money.
 - Establishing a good rapport with regulars and diffusing any problem customers.
-
+--->
 **Intern** - XL Recordings - UK’s Biggest Independent Record Label (August 2019 - November 2019)
 
 - Created a CV that looks like a vinyl record that led to an internship at this dream record label.
