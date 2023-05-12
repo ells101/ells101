@@ -46,7 +46,7 @@ Sitting on my Dad's lap as he played Diablo 2, I was transfixed less by the mons
 - Practised attention to detail and concision with strict word-count essays on complex concepts.
 - Taught the concept of parsimony. Breaking down abstract arguments into salient points is how I code.
 
-### Qualifications
+## Qualifications
 
 - Certified Tester Foundation Level (CTFL) - ISTQB (February 2023)
 - JS, SQL, HTML, CSS Introduction - Mimo IOS/Android App (July 2021 - January 2022)
